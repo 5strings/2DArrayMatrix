@@ -9,7 +9,7 @@
 //  int a[3][4];
 
 //  Multiple arrays
-//  type array_name [size][size\][size];
+//  type array_name [size][size][size];
 //  int a[3][3][3];
 
 
